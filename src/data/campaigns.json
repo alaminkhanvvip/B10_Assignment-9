@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Winter Warmth for Dhaka Slums",
+    "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=600&h=400&fit=crop&crop=center",
+    "description": "Providing warm clothing to families living in Dhaka's slum areas during harsh winter months.",
+    "status": "Active",
+    "contactInfo": "dhaka@winterdonation.org",
+    "division": "Dhaka"
+  },
+  {
+    "id": 2,
+    "title": "Chittagong Hill Tracts Relief",
+    "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&h=400&fit=crop&crop=center",
+    "description": "Supporting indigenous communities in Chittagong Hill Tracts with winter essentials.",
+    "status": "Active",
+    "contactInfo": "chittagong@winterdonation.org",
+    "division": "Chittagong"
+  },
+  {
+    "id": 3,
+    "title": "Sylhet Tea Garden Workers",
+    "image": "https://images.unsplash.com/photo-1609220136736-443140cffec6?w=600&h=400&fit=crop&crop=center",
+    "description": "Helping tea garden workers and their families stay warm during winter season.",
+    "status": "Active",
+    "contactInfo": "sylhet@winterdonation.org",
+    "division": "Sylhet"
+  },
+  {
+    "id": 4,
+    "title": "Rangpur Rural Communities",
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&h=400&fit=crop&crop=center",
+    "description": "Distributing blankets and warm clothes to rural communities in Rangpur division.",
+    "status": "Active",
+    "contactInfo": "rangpur@winterdonation.org",
+    "division": "Rangpur"
+  },
+  {
+    "id": 5,
+    "title": "Rajshahi Elderly Care",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop&crop=center",
+    "description": "Special winter care program for elderly citizens in Rajshahi division.",
+    "status": "Active",
+    "contactInfo": "rajshahi@winterdonation.org",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 6,
+    "title": "Khulna Coastal Protection",
+    "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=600&h=400&fit=crop&crop=center",
+    "description": "Protecting coastal communities in Khulna from cold weather conditions.",
+    "status": "Active",
+    "contactInfo": "khulna@winterdonation.org",
+    "division": "Khulna"
+  }
+]

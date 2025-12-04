@@ -138,24 +138,6 @@ winter-donation/
 └── dist/                  # Build output
 ```
 
-## 🌍 Supported Divisions
-
-| Division | Focus Area | Contact |
-|----------|------------|---------|
-| **Dhaka** | Urban slum communities | dhaka@winterdonation.org |
-| **Chittagong** | Hill tract indigenous communities | chittagong@winterdonation.org |
-| **Sylhet** | Tea garden workers | sylhet@winterdonation.org |
-| **Rangpur** | Rural communities | rangpur@winterdonation.org |
-| **Rajshahi** | Elderly care programs | rajshahi@winterdonation.org |
-| **Khulna** | Coastal protection initiatives | khulna@winterdonation.org |
-
-## 📊 Impact Statistics
-
-- **5,000+** Families helped across Bangladesh
-- **25,000+** Winter clothing items donated
-- **6** Active campaigns running
-- **200+** Volunteers actively participating
-
 ## 🚀 Deployment
 
 ### **Firebase Hosting**
